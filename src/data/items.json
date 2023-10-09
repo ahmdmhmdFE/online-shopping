@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Book",
+    "price": 10.99,
+    "imgUrl": "/imgs/book.jpg"
+  },
+  {
+    "id": 2,
+    "name": "LapTop",
+    "price": 119,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Mobile",
+    "price": 10.05,
+    "imgUrl": "/imgs/mobile.jpeg"
+  },
+  {
+    "id": 4,
+    "name": "Watch",
+    "price": 14,
+    "imgUrl": "/imgs/watch.jpg"
+  },
+  {
+    "id": 5,
+    "name": "PoweBank",
+    "price": 5,
+    "imgUrl": "/imgs/powerbank.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cloths",
+    "price": 7,
+    "imgUrl": "/imgs/cloths.jpeg"
+  }
+]
